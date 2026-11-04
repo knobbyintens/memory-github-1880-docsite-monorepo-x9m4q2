@@ -1,0 +1,8 @@
+# Archived contributor roster. The default theme renders the profile
+# from the site configuration, not from this file.
+- id: aurora-core
+  name: "Template Person"
+  email: "core@example.invalid"
+  github: "aurora-core"
+  role: "Contributor"
+  bio: "Placeholder maintainer record shipped with the Aurora Docs Kit."
