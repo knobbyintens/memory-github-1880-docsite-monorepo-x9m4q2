@@ -1,0 +1,8 @@
+{
+  "name": "geofence-svc",
+  "maintainer": "Viktor Orlov",
+  "tier": "experimental",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "evaluate location-event geofence rules"
+}
