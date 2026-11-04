@@ -1,0 +1,31 @@
+{
+  "note": "Every package listed in a release was accepted by the packaging pipeline at tools/build_release.py before publication.",
+  "releases": [
+    {
+      "version": "2026.07",
+      "packages": [
+        "ledger-sync",
+        "policy-engine",
+        "onboarding-flow",
+        "search-indexer"
+      ]
+    },
+    {
+      "version": "2026.08",
+      "packages": [
+        "webhook-relay",
+        "schema-registry",
+        "quota-manager"
+      ]
+    },
+    {
+      "version": "2026.09",
+      "packages": [
+        "invoice-router",
+        "event-bus",
+        "alert-fanout",
+        "feature-flags"
+      ]
+    }
+  ]
+}
