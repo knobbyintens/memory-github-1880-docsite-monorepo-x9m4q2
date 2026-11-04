@@ -1,0 +1,8 @@
+{
+  "name": "billing-adapter",
+  "maintainer": "Liam Novak",
+  "tier": "core",
+  "deprecated": true,
+  "lifecycle": "retired",
+  "summary": "legacy billing gateway adapter"
+}
