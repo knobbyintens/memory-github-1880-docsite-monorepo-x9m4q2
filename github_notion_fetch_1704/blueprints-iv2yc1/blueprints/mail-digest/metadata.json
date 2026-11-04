@@ -1,0 +1,8 @@
+{
+  "name": "mail-digest",
+  "maintainer": "Priya Nair",
+  "tier": "experimental",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "summarise shared mailbox traffic into a daily digest"
+}
