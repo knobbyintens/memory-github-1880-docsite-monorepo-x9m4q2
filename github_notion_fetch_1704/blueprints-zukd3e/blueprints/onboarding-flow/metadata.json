@@ -1,0 +1,8 @@
+{
+  "name": "onboarding-flow",
+  "maintainer": "Chen Yu",
+  "tier": "core",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "orchestrate employee onboarding steps across teams"
+}
