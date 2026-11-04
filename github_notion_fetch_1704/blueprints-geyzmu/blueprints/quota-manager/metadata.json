@@ -1,0 +1,8 @@
+{
+  "name": "quota-manager",
+  "maintainer": "Goh Wei",
+  "tier": "experimental",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "enforce per-tenant service quotas"
+}
