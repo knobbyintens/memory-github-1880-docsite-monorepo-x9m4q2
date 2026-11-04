@@ -1,0 +1,8 @@
+{
+  "name": "invoice-router",
+  "maintainer": "Hana Kim",
+  "tier": "core",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "route supplier invoices to the correct approval queue"
+}

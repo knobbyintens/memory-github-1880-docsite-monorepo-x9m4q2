@@ -1,0 +1,8 @@
+{
+  "name": "load-tester",
+  "maintainer": "Yara Costa",
+  "tier": "experimental",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "simulate peak traffic against staging endpoints"
+}
