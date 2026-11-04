@@ -1,0 +1,8 @@
+{
+  "name": "search-indexer",
+  "maintainer": "Daichi Mori",
+  "tier": "core",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "refresh the internal document search index"
+}

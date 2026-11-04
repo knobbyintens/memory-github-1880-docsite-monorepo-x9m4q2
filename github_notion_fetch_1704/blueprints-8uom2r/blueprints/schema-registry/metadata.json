@@ -1,0 +1,8 @@
+{
+  "name": "schema-registry",
+  "maintainer": "Faye Wong",
+  "tier": "core",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "publish and validate shared data-schema contracts"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "report-forge",
+  "maintainer": "Uma Patel",
+  "tier": "experimental",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "generate recurring executive reports"
+}
