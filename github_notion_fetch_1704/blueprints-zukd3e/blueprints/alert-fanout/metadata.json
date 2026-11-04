@@ -1,0 +1,8 @@
+{
+  "name": "alert-fanout",
+  "maintainer": "Kara Lund",
+  "tier": "experimental",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "deduplicate and route operational alerts"
+}
