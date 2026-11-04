@@ -2,9 +2,17 @@
 layout: default
 title: About
 ---
-# About
+# About Priya Raghavan
 
-This portal is maintained by **Kit Maintainer**.
+Priya Raghavan leads the Developer Experience group at Northbeam Labs. She builds approachable SDKs, clear API references, and documentation that helps product teams ship with confidence.
 
-Replace this section with the site owner's biography, focus areas and
-professional highlights.
+## Focus areas
+
+- Developer experience: SDK ergonomics, onboarding and documentation quality.
+- API reliability: resilient public APIs and predictable error handling.
+
+## Recent talks
+
+- DevRelCon Berlin 2025 - SDK Ergonomics that Scale
+- APIWorld 2024 - Designing Resilient Public APIs
+- Northbeam Dev Summit 2023 - Docs as a Product
