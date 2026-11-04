@@ -1,0 +1,8 @@
+{
+  "name": "session-guard",
+  "maintainer": "Sofia Marino",
+  "tier": "core",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "detect anomalous session behaviour"
+}
