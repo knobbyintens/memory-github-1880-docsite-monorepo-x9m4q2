@@ -1,0 +1,8 @@
+[
+  {
+    "name": "write_report",
+    "arguments": {
+      "path": "cron-orchestrator_report.json"
+    }
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "name": "write_report",
+    "arguments": {
+      "path": "cache-warmer_report.json"
+    }
+  }
+]
