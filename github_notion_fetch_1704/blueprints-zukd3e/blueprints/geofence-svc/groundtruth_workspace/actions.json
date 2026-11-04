@@ -1,0 +1,8 @@
+[
+  {
+    "name": "write_report",
+    "arguments": {
+      "path": "geofence-svc_report.json"
+    }
+  }
+]

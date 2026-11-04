@@ -1,0 +1,8 @@
+{
+  "name": "event-bus",
+  "maintainer": "Ivan Petrov",
+  "tier": "core",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "normalise and forward domain events"
+}
