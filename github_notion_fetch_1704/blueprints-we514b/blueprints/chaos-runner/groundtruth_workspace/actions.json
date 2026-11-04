@@ -1,0 +1,8 @@
+[
+  {
+    "name": "write_report",
+    "arguments": {
+      "path": "chaos-runner_report.json"
+    }
+  }
+]

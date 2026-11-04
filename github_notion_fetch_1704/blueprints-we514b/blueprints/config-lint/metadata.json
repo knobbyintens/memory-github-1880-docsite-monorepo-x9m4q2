@@ -1,0 +1,8 @@
+{
+  "name": "config-lint",
+  "maintainer": "Ravi Desai",
+  "tier": "experimental",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "lint configuration bundles before deployment"
+}
