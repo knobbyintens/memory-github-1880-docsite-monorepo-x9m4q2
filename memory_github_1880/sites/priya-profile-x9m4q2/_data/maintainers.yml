@@ -1,8 +1,7 @@
-# Archived contributor roster. The default theme renders the profile
-# from the site configuration, not from this file.
-- id: aurora-core
-  name: "Template Person"
-  email: "core@example.invalid"
-  github: "aurora-core"
-  role: "Contributor"
-  bio: "Placeholder maintainer record shipped with the Aurora Docs Kit."
+# Maintainer roster
+- id: priya-raghavan
+  name: "Priya Raghavan"
+  email: "priya.raghavan@northbeam.io"
+  github: "priya-rd"
+  role: "Maintainer Lead"
+  bio: "Leads Developer Experience at Northbeam Labs; focuses on SDKs and API reliability."
