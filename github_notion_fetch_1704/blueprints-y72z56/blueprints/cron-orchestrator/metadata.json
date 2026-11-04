@@ -1,0 +1,8 @@
+{
+  "name": "cron-orchestrator",
+  "maintainer": "Tomas Berg",
+  "tier": "core",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "schedule dependent batch jobs"
+}
