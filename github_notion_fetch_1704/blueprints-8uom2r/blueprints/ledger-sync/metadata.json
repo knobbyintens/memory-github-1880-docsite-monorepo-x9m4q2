@@ -1,0 +1,8 @@
+{
+  "name": "ledger-sync",
+  "maintainer": "Alice Chen",
+  "tier": "core",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "reconcile general-ledger movements against settlement feeds"
+}
