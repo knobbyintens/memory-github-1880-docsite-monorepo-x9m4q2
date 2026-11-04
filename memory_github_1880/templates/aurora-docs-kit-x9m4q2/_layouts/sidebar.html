@@ -1,0 +1,12 @@
+<aside class="profile-sidebar">
+  <h2 class="profile-name">{{ site.theme.profile.display_name }}</h2>
+  <p class="profile-role">{{ site.theme.profile.role }} &middot; {{ site.theme.profile.organization }}</p>
+  <p class="profile-email"><a href="mailto:{{ site.theme.profile.email }}">{{ site.theme.profile.email }}</a></p>
+  <p class="profile-github"><a href="https://github.com/{{ site.theme.profile.github }}">@{{ site.theme.profile.github }}</a></p>
+  {% if site.theme.show_team %}
+  <section class="profile-team"><h3>Team</h3><p>{{ site.theme.profile.organization }}</p></section>
+  {% endif %}
+  {% if site.theme.show_talks %}
+  <section class="profile-talks"><h3>Talks</h3><p>See the About page for recent talks.</p></section>
+  {% endif %}
+</aside>
