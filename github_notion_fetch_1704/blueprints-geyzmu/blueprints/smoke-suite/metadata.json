@@ -1,0 +1,8 @@
+{
+  "name": "smoke-suite",
+  "maintainer": "Wen Li",
+  "tier": "core",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "run smoke checks across shared services"
+}
