@@ -1,0 +1,8 @@
+{
+  "name": "chaos-runner",
+  "maintainer": "Xavier Dumont",
+  "tier": "experimental",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "inject controlled failures into test clusters"
+}
