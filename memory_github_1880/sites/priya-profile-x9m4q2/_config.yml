@@ -3,14 +3,14 @@
 #
 # The site_name anchor is reused by the header and the footer.
 # ==============================================================
-site_name: &site_name "Priya Raghavan - Northbeam Developer Docs"
-site_tagline: "Developer experience, SDKs and API reliability"
+site_name: &site_name "Aurora Docs Kit"
+site_tagline: "A minimal documentation portal for engineering teams"
 logo_text: *site_name
 footer_credit: "Powered by Aurora Docs Kit"
 
 # Legacy fields kept for backwards compatibility with older layouts.
-author_name: "Priya Raghavan"
-author_email: "priya.raghavan@northbeam.io"
+author_name: "Kit Maintainer"
+author_email: "kit@example.invalid"
 
 navigation:
   - title: "Home"
@@ -20,12 +20,12 @@ navigation:
 
 theme:
   name: "aurora-minimal"
-  accent_color: "#1f6feb"
-  show_team: true
-  show_talks: true
+  accent_color: "#6e7781"
+  show_team: false
+  show_talks: false
   profile:
-    display_name: "Priya Raghavan"
-    email: "priya.raghavan@northbeam.io"
-    github: "priya-rd"
-    role: "Maintainer Lead"
-    organization: "Northbeam Labs"
+    display_name: "Sidebar Display Name"
+    email: "sidebar@example.invalid"
+    github: "aurora-docs-kit"
+    role: "Maintainer"
+    organization: "Aurora Docs Community"
