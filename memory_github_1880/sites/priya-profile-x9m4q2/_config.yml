@@ -1,16 +1,10 @@
-# ==============================================================
-# Aurora Docs Kit - global site configuration
-#
-# The site_name anchor is reused by the header and the footer.
-# ==============================================================
-site_name: &site_name "Aurora Docs Kit"
+site_name: &site_name "Priya Raghavan - Northbeam Developer Docs"
 site_tagline: "A minimal documentation portal for engineering teams"
 logo_text: *site_name
 footer_credit: "Powered by Aurora Docs Kit"
 
-# Legacy fields kept for backwards compatibility with older layouts.
-author_name: "Kit Maintainer"
-author_email: "kit@example.invalid"
+author_name: "Priya Raghavan"
+author_email: "priya.raghavan@northbeam.io"
 
 navigation:
   - title: "Home"

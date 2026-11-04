@@ -2,9 +2,6 @@
 layout: default
 title: About
 ---
-# About
+# About Priya Raghavan
 
-This portal is maintained by **Kit Maintainer**.
-
-Replace this section with the site owner's biography, focus areas and
-professional highlights.
+Priya Raghavan leads the Developer Experience group at Northbeam Labs. She focuses on developer experience and API reliability.
