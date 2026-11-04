@@ -1,0 +1,8 @@
+[
+  {
+    "name": "write_report",
+    "arguments": {
+      "path": "search-indexer_report.json"
+    }
+  }
+]
