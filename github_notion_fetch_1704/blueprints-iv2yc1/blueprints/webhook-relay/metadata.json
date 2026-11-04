@@ -1,0 +1,8 @@
+{
+  "name": "webhook-relay",
+  "maintainer": "Eri Tanaka",
+  "tier": "experimental",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "fan out partner webhooks with retry semantics"
+}
