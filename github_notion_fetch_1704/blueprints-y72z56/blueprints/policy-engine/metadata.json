@@ -1,0 +1,8 @@
+{
+  "name": "policy-engine",
+  "maintainer": "Bian Xu",
+  "tier": "core",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "apply policy rules to incoming service requests"
+}
