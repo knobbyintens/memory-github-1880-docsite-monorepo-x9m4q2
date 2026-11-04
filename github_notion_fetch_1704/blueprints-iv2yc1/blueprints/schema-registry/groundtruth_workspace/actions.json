@@ -1,0 +1,8 @@
+[
+  {
+    "name": "write_report",
+    "arguments": {
+      "path": "schema-registry_report.json"
+    }
+  }
+]

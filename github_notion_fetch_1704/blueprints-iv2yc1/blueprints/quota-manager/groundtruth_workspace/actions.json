@@ -1,0 +1,8 @@
+[
+  {
+    "name": "write_report",
+    "arguments": {
+      "path": "quota-manager_report.json"
+    }
+  }
+]
