@@ -1,0 +1,8 @@
+[
+  {
+    "name": "write_report",
+    "arguments": {
+      "path": "token-broker_report.json"
+    }
+  }
+]

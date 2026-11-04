@@ -1,0 +1,8 @@
+{
+  "name": "token-broker",
+  "maintainer": "Quinn Reyes",
+  "tier": "core",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "issue scoped short-lived access tokens"
+}
