@@ -1,0 +1,8 @@
+{
+  "name": "image-proxy",
+  "maintainer": "Zane Miller",
+  "tier": "core",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "cache and transform remote image assets"
+}
