@@ -1,0 +1,8 @@
+{
+  "name": "audit-trail",
+  "maintainer": "Omar Haddad",
+  "tier": "core",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "assemble immutable audit trails for regulated changes"
+}
