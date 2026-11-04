@@ -1,0 +1,8 @@
+{
+  "name": "legacy-export",
+  "maintainer": "Mira Sato",
+  "tier": "experimental",
+  "deprecated": true,
+  "lifecycle": "retired",
+  "summary": "nightly export of legacy reporting extracts"
+}
