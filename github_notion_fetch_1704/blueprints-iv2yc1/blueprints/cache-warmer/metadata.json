@@ -1,0 +1,8 @@
+{
+  "name": "cache-warmer",
+  "maintainer": "Nadia Ali",
+  "tier": "experimental",
+  "deprecated": false,
+  "lifecycle": "active",
+  "summary": "pre-warm regional cache tiers"
+}
