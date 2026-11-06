@@ -1,0 +1,20 @@
+# SPDX-License-Identifier: Apache-2.0
+# Deploy pipeline owned by release-engineering
+# Build and deploy pipeline for the gateway service.
+stages:
+  - build
+  - deploy
+
+build:
+  script: make build
+  # TODO(frank): cache layer archives between pipeline runs
+  artifacts: [dist/]
+
+deploy:
+  script: make deploy
+  # TODO(dave) : gate production rollout on smoke test results
+  environment: production
+
+notify:
+  script: make notify
+  # TODO: publish pipeline duration metrics to the dashboard
