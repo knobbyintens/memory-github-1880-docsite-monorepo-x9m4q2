@@ -1,0 +1,26 @@
+{
+  "alice": {
+    "team": "core-platform",
+    "priority": "P1"
+  },
+  "bob": {
+    "team": "data-pipeline",
+    "priority": "P2"
+  },
+  "carol": {
+    "team": "web-experience",
+    "priority": "P2"
+  },
+  "dave": {
+    "team": "release-engineering",
+    "priority": "P1"
+  },
+  "erin": {
+    "team": "core-platform",
+    "priority": "P0"
+  },
+  "frank": {
+    "team": "data-pipeline",
+    "priority": "P1"
+  }
+}
