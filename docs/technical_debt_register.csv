@@ -1,0 +1,31 @@
+entry_id,file_path,owner,message,status,line,last_verified
+TD-1001,deploy/pipeline.yaml,frank,cache layer archives between pipeline runs,open,8,2026-09-18
+TD-1002,deploy/pipeline.yaml,dave,gate production rollout on smoke test results,open,13,2026-09-18
+TD-1003,scripts/release/rollback.sh,dave,verify the previous release tag exists before rolling back,open,4,2026-09-18
+TD-1004,scripts/release/rollback.sh,,print the currently deployed commit for the on-call engineer,in-progress,8,2026-09-18
+TD-1005,services/billing/src/invoice.py,,round currency per line before summing,open,4,2026-09-18
+TD-1006,services/billing/src/invoice.py,dave,currency conversion: pin exchange rate at invoice issue time,open,7,2026-09-18
+TD-1007,services/billing/src/invoice.py,alice,tax rules: select jurisdiction from billing address,open,12,2026-09-18
+TD-1008,services/billing/src/statements.py,erin,statement cutoff: align with account timezone,open,4,2026-09-18
+TD-1009,services/gateway/src/auth.py,,rotate signing keys on a fixed schedule,open,6,2026-09-18
+TD-1010,services/gateway/src/auth.py,erin,support scoped tokens for read-only clients,open,11,2026-09-18
+TD-1011,services/gateway/src/cache.py,carol,cache invalidation: version the cache keys,open,6,2026-09-18
+TD-1012,services/gateway/src/cache.py,bob,add size cap before evicting everything,in-progress,13,2026-09-18
+TD-1013,services/gateway/src/retry.py,alice,retry budget: cap attempts at five per request,open,8,2026-09-18
+TD-1014,services/gateway/src/retry.py,alice,jitter backoff to avoid thundering herd,open,16,2026-09-18
+TD-1015,services/gateway/src/retry.py,,expose retry counters through metrics endpoint,open,18,2026-09-18
+TD-1016,services/gateway/src/router.py,,emit structured 404 telemetry,open,11,2026-09-18
+TD-1017,services/gateway/src/router.py,carol,hot reload must validate route conflicts first,open,15,2026-09-18
+TD-1018,services/ingest/src/consumer.py,bob,handle poison messages without blocking the partition,open,5,2026-09-18
+TD-1019,services/ingest/src/consumer.py,,drain in-flight messages before terminating the worker,open,14,2026-09-18
+TD-1020,services/ingest/src/partition.py,frank,rebalance hot partitions after rehash,open,6,2026-09-18
+TD-1021,services/ingest/src/partition.py,,emit partition skew metrics every minute,in-progress,10,2026-09-18
+TD-1022,services/ingest/src/transform.py,erin,schema drift: reject unknown top-level fields,open,4,2026-09-18
+TD-1023,services/ingest/src/transform.py,,attach ingestion timestamp from upstream envelope,open,9,2026-09-18
+TD-1024,services/ingest/src/transform.py,frank,dedupe window: collapse duplicate event ids,open,14,2026-09-18
+TD-1025,web/console/src/apiClient.ts,bob,surface request id on failed list calls,open,4,2026-09-18
+TD-1026,web/console/src/apiClient.ts,carol,escape nested filter values,open,10,2026-09-18
+TD-1027,web/console/src/apiClient.ts,,propagate cancellation to background refreshes,open,15,2026-09-18
+TD-1028,web/console/src/dashboard.ts,,label the p95 series distinctly from average,open,3,2026-09-18
+TD-1029,web/console/src/notifications.ts,erin,dedupe alerts by fingerprint within one minute,open,2,2026-09-18
+TD-1030,web/console/src/notifications.ts,carol,restore keyboard focus after banner dismissal,open,7,2026-09-18
